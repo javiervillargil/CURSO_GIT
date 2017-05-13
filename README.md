@@ -1,2 +1,2 @@
 # CURSO_GIT
-Test repo for git curse
+Test repo for git course
